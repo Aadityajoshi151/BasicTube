@@ -1,0 +1,22 @@
+{
+  "name": "basictube",
+  "version": "0.0.1",
+  "description": "SHYTLVL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aadityajoshi151/BasicTube.git"
+  },
+  "author": "Aaditya Joshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aadityajoshi151/BasicTube/issues"
+  },
+  "homepage": "https://github.com/Aadityajoshi151/BasicTube#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
